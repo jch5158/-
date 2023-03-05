@@ -6,6 +6,14 @@
 
 <br><br><br>
 
+# 기술 블로그
+
+<br>
+
+- https://vanilla-tech.tistory.com/
+
+<br><br><br>
+
 # 구현 프로젝트
 
 <br>
@@ -115,7 +123,7 @@
 
 <br><br><br>
 
-<A\* & JPS 길 찾기 프로젝트>
+### <A\* & JPS 길 찾기 프로젝트>
 
 <br>
 
@@ -143,13 +151,5 @@
 - WinAPI를 이용해 경로 탐색 시각화 구현
 - 브레즌험 알고리즘을 이용해서 자연스러운 경로 구현
 - A\*와 JPS 알고리즘의 성능 비교 분석 및 결과 도출
-
-<br><br><br>
-
-# 기술 블로그
-
-<br>
-
-- https://vanilla-tech.tistory.com/
 
 <br><br><br>
